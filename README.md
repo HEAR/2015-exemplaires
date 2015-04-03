@@ -7,7 +7,7 @@ Glisser le dossier racine (exemplaire/) sur l'icône du terminal. Votre terminal
 
 `Votre_ordinateur:exemplaires`
 
-Une fois wue vous avez modifié le code **HTML/CSS/JS** dans le dossier `www`, il faut mettre à jour le projet xcode avec la commande :
+Une fois wue vous avez modifié le code **HTML/CSS/JS** dans le dossier `www`, il faut mettre à jour le projet xcode avec la commande du terminal :
 
 `cordova prepare ios`
 
