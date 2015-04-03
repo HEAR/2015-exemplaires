@@ -11,4 +11,4 @@ Une fois wue vous avez modifié le code **HTML/CSS/JS** dans le dossier `www`, i
 
 `cordova prepare ios`
 
-Pour plus d'informations sur les commandes du terminal à utiliser pour vos projets Cordova, vous pouvez consulter la page [http://cordova.apache.org/docs/en/4.0.0/guide_cli_index.md.html#The%20Command-Line%20Interface](Cordova : The Command-Line Interface)
+Pour plus d'informations sur les commandes du terminal à utiliser pour vos projets Cordova, vous pouvez consulter la page (Cordova : The Command-Line Interface)[http://cordova.apache.org/docs/en/4.0.0/guide_cli_index.md.html#The%20Command-Line%20Interface]
