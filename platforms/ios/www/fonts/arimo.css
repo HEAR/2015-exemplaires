@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(fonts/Arimo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Arimo Bold Italic'), local('Arimo-BoldItalic'), url(fonts/Arimo-italic.ttf) format('truetype');
+}
